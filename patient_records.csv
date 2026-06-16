@@ -1,0 +1,6 @@
+Timestamp,Patient Name,Risk Score,Risk Category,Action Protocol
+2026-06-16 07:29:48,D,12,CRITICAL,Immediate admission. Emergency MRI/CT of Brain & PNS.
+2026-06-16 07:31:12,OM,32,CRITICAL,Immediate admission. Emergency MRI/CT of Brain & PNS.
+2026-06-16 07:31:12,JERRY,3,LOW,Standard post-COVID observation and routine hygiene.
+2026-06-16 07:31:12,DOD,29,CRITICAL,Immediate admission. Emergency MRI/CT of Brain & PNS.
+2026-06-16 07:50:16,SD,20,CRITICAL,Immediate admission. Emergency MRI/CT of Brain & PNS. Initiate immediate clinical antifungal protocol.
